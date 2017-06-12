@@ -1,5 +1,10 @@
 # Basic lane finding
 ## Keywords: Computer vision, Canny edges, OpenCV, Hough transform
+Output video for basic lane finding:
+
+[![White lane lines](https://img.youtube.com/vi/XtLAcXBJvy0/0.jpg)](https://www.youtube.com/watch?v=XtLAcXBJvy0 "White lane lines")
+
+[![Yellow lane lines](https://img.youtube.com/vi/UJUFZUFIrOw/0.jpg)](https://www.youtube.com/watch?v=UJUFZUFIrOw "Yellow lane lines")
 
 #### Lane detection and overlay on video
 This document describes the basic thoughts and workflow behind a simple lane detection algorithm.
